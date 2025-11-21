@@ -4,7 +4,8 @@
 **DATE:**  
 
 
-## AIM  : To simulate the performance of R-2R  circuits using LT- SPICE                
+## AIM  : 
+To simulate the performance of R-2R  circuits using LT- SPICE                
 
 ---
 
@@ -16,6 +17,7 @@
 5.Save the file by giving file name.
 6.Click on the run option ->click advanced open ->select Ac analysis->enter the amplitude-> time delay stop time value.
 7.Click on the run option ->simulationwindow opens->place the probe ->output graph is obtained
+
 ---
 
 ## CIRCUIT DIAGRAM
@@ -28,10 +30,12 @@
 <img width="1006" height="353" alt="image" src="https://github.com/user-attachments/assets/c920c726-d72d-4106-9048-0cd86b895f3d" />
 
 ---
-## OUT PUT WAVEFORM AND DISCUSSION 
+## OUTPUT WAVEFORM AND DISCUSSION 
 
+<img width="867" height="425" alt="image" src="https://github.com/user-attachments/assets/3497e852-786f-48e5-9701-071be1fb87b6" />
 
 ---
-##RESULT:
+## RESULT:
 Thus the LTspice tools has studied and simulated the performance of R-2R  circuits.
+
 ---
